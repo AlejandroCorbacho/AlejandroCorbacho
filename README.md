@@ -11,7 +11,8 @@ Computer science student who likes making the boring parts of computing run by t
  <a href="https://github.com/AlejandroCorbacho/Local-Music-Server"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlejandroCorbacho&repo=Local-Music-Server&theme=transparent&hide_border=true&title_color=0969da&text_color=656d76&icon_color=0969da" alt="Local-Music-Server"></a>
  </p>
 
-*Built with:*  
+*Built with:*
+
 <img alt="Python"  src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 ## Tech Stack
@@ -19,22 +20,19 @@ Computer science student who likes making the boring parts of computing run by t
 **Languages:**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,bash,html,css&theme=dark" />
-  <img alt="Python, Bash, HTML, CSS" src="https://skillicons.dev/icons?i=python,bash,html,css&theme=light" />
+  <img alt="Python,Bash,HTML,CSS" src="https://skillicons.dev/icons?i=python,bash,html,css&theme=dark" />
 </picture>
 
 **Tools & environment:**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,arch,neovim,vscode,github&theme=dark" />
-  <img alt="Linux, Arch, Neovim, VS Code, GitHub" src="https://skillicons.dev/icons?i=linux,arch,neovim,vscode,github&theme=light" />
+  <img alt="Linux,Arch,Neovim,VSCode,GitHub" src="https://skillicons.dev/icons?i=linux,arch,neovim,vscode,github&theme=dark" />
 </picture>
 
 **Infrastructure & data:**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,cloudflare,mysql&theme=dark" />
-  <img alt="Docker, Cloudflare, MySQL" src="https://skillicons.dev/icons?i=docker,cloudflare,mysql&theme=light" />
+  <img alt="Docker,Cloudflare,MySQL" src="https://skillicons.dev/icons?i=docker,cloudflare,mysql&theme=dark" />
 </picture>
 
 ## Contributions
