@@ -3,7 +3,7 @@
 - 🎓 Computer science student, learning something new every day
 - 🐍 I write **Python** and **Bash** scripts to automate tasks
 - 🐧 Linux user
-- 📫 Contact me: <a href="mailto:alejandro.corbacho@alejandrocorbacho.dev"> <img src="https://img.shields.io/badge/alejandro.corbacho@alejandrocorbacho.dev-Get%20in%20touchd-0969da?style=flat-square&logo=cloudflare&logoColor=white" alt="Email" /> </a>
+- 📫 Contact me: <a href="mailto:alejandro.corbacho@alejandrocorbacho.dev"> <img src="https://img.shields.io/badge/alejandro.corbacho@alejandrocorbacho.dev-Get%20in%20touchd-0969da?style=flat-square" alt="Email" /> </a>
 
 
 ### Tech Stack
