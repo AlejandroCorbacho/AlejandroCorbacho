@@ -2,7 +2,6 @@
 
 Computer science student who likes making the boring parts of computing run by themselves. I write **Python** and **Bash** scripts to automate tasks, and I spend most of my time on **Linux** (Arch, btw)
 
-- 🔭 Currently learning: **networking, Docker, git, bash ...**
 - 🛠️ Currently working on: **Amazon-Price-Scraper-Bot**
 - 📫 Contact: [alejandro.corbacho@alejandrocorbacho.dev](mailto:alejandro.corbacho@alejandrocorbacho.dev)
 
