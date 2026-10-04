@@ -26,7 +26,7 @@ Computer science student who likes making the boring parts of computing run by t
 **Tools & environment:**
 
 <picture>
-  <img alt="Linux,Arch,Fedora,Neovim,VSCode,GitHub" src="https://skillicons.dev/icons?i=linux,arch,fedora,neovim,vscode,vscodium,github&theme=dark" />
+  <img alt="Linux,Arch,Fedora,Neovim,VSCode,GitHub" src="https://skillicons.dev/icons?i=linux,arch,redhat,debian,neovim,vscode,vscodium,github,emacs&theme=dark" />
 </picture>
 
 **Infrastructure & data:**
