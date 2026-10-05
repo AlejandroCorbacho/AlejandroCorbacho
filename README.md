@@ -1,9 +1,9 @@
-# Hi, I'm Alex 👋
+# Hi, I'm Alex
 
 Computer science student who likes making the boring parts of computing run by themselves. I write **Python** and **Bash** scripts to automate tasks, and I spend most of my time on **Linux** (Arch, btw)
 
-- 🛠️ Currently working on: **Amazon-Price-Scraper-Bot**
-- 📫 Contact: [alejandro.corbacho@alejandrocorbacho.dev](mailto:alejandro.corbacho@alejandrocorbacho.dev)
+- Currently working on: **Amazon-Price-Scraper-Bot**
+- Contact me: [corbacho.alejandro@proton.me](mailto:corbacho.alejandro@proton.me) or [alejandro.corbacho@alejandrocorbacho.dev](mailto:alejandro.corbacho@alejandrocorbacho.dev)
 
 ## Best Project (For the moment :)
 <p>
@@ -25,13 +25,13 @@ Computer science student who likes making the boring parts of computing run by t
 **Tools & environment:**
 
 <picture>
-  <img alt="Linux,Arch,Fedora,Neovim,VSCode,GitHub" src="https://skillicons.dev/icons?i=linux,arch,redhat,debian,neovim,vscode,vscodium,github,emacs&theme=dark" />
+  <img alt="Linux,Arch,Fedora,Neovim,GitHub" src="https://skillicons.dev/icons?i=linux,arch,redhat,debian,neovim,vscodium,github&theme=dark" />
 </picture>
 
 **Infrastructure & data:**
 
 <picture>
-  <img alt="Docker,Cloudflare,MySQL" src="https://skillicons.dev/icons?i=docker,cloudflare&theme=dark" />
+  <img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" />
 </picture>
 
 ## Contributions
