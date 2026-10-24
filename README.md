@@ -2,7 +2,7 @@
 
 Computer science student who likes making the boring parts of computing run by themselves. I write **Python** and **Bash** scripts to automate tasks, and I spend most of my time on **Linux** (Arch, btw)
 
-- Currently working on: **Amazon-Price-Scraper-Bot**
+- Currently working on: **Windows Office on Linux**
 - Contact me: [corbacho.alejandro@proton.me](mailto:corbacho.alejandro@proton.me) or [alejandro.corbacho@alejandrocorbacho.dev](mailto:alejandro.corbacho@alejandrocorbacho.dev)
 
 ## Best Project (For the moment :)
